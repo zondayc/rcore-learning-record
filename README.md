@@ -1,5 +1,7 @@
 # rcore-learning-record
 this repo is used to record my rcore learning progress, hope every thing will be fine :)
+
+另附上学习中的笔记[Notion](https://silicon-aurora-0f5.notion.site/0420e131c65a463793cd5b24a992f8c2?v=dc46b93f47754acfa47849256a7dd4b8)
 ## 前置经历
 + 自9月开始学习rust，粗略看了一遍rust圣经
 + 11月训练营开始后没有报名，在同学鼓动下做完了rustlings和ch1的实验（不过是rcore-tutorial-alpha v3.0上的）
