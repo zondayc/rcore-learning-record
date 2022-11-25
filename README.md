@@ -12,7 +12,7 @@ this repo is used to record my rcore learning progress, hope every thing will be
   + 重写一遍ch1，通过CI
   + 看完ch2
 + 完成情况
-  + 蚌埠住了，这里ch1没有联系了，看来今天把ch1和ch2过完一遍应该就好了捏
+  + 蚌埠住了，这里ch1没有练习了，看来今天把ch1和ch2过完一遍应该就好了捏
 
 ## 11.25
 + 计划
