@@ -18,3 +18,4 @@ this repo is used to record my rcore learning progress, hope every thing will be
 + 计划
   + 寄！昨天ch2没咋看
   + 今天看完ch2和ch3
+  + 晚上尝试一下在m1 MacAir上配置相关环境
